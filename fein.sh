@@ -1,21 +1,28 @@
 #!/bin/bash
 
 if [ $(id -u) -ne 0 ]; then
-    echo "Please run this script as root. You can do so by using 'sudo su'."
+    echo "Run as root, dumbass."
     exit
 fi
 
-echo "+##############################################+"
-echo "| Welcome to Pollen!                           |"
-echo "| The User Policy Editor                       |"
-echo "| -------------------------------------------- |"
-echo "| Developers:                                  |"
-echo "| - OlyB                                       |"
-echo "| - Rafflesia                                  |"
-echo "| - r58Playz                                   |"
-echo "+##############################################+"
-echo "May Ultrablue rest in peace, o7."
-
+echo "Injecting brainrot for full privilege access..."
+sleep 2
+echo "Giving the chromebook that hawk tuah!"
+sleep 1
+echo "I like my cheese drippy bruh."
+sleep 1
+echo "Making the chromebook crash out by listening to mango phonk"
+sleep 2
+echo ""
+echo "Rizzler has entered the chat!"
+sleep 0.5s
+echo "FEIN FEIN FEIN FEIN FEIN FEIN FEIN"
+sleep 1
+echo "Please do the german stare to continue."
+sleep 10
+echo "German stare approved! Your winter arc progress: 58%"
+sleep 3
+echo "skibidi dop dop dop yes yes!"
 
 sleep 1
 
@@ -90,4 +97,9 @@ cp -a -L /etc/* /tmp/overlay/etc 2> /dev/null
 mount --bind /tmp/overlay/etc /etc
 
 echo ""
-echo "Pollen has been successfully applied!"
+sleep 1
+echo "Brianrot injected!"
+sleep 0.5s
+echo "Diddy is rapidly coming towards your location."
+echo ""
+echo "Watch out."
