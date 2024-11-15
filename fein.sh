@@ -11,11 +11,11 @@ echo "Giving the chromebook that hawk tuah!"
 sleep 1
 echo "I like my cheese drippy bruh."
 sleep 1
-echo "Making the chromebook crash out by listening to mango phonk"
+echo "Making the chromebook crash out by listening to mango phonk."
 sleep 2
 echo ""
 echo "Rizzler has entered the chat!"
-sleep 0.5s
+sleep .5
 echo "FEIN FEIN FEIN FEIN FEIN FEIN FEIN"
 sleep 1
 echo "Please do the german stare to continue."
@@ -23,6 +23,12 @@ sleep 5
 echo "German stare approved! Your winter arc progress: 58%"
 sleep 3
 echo "skibidi dop dop dop yes yes!"
+sleep 4
+echo "That feeling when..."
+sleep .5
+echo "KNEE"
+sleep .5
+echo "surgery is tomorrow...."
 
 sleep 1
 
@@ -99,7 +105,7 @@ mount --bind /tmp/overlay/etc /etc
 echo ""
 sleep 1
 echo "Brianrot injected!"
-sleep 0.5s
+sleep .5
 echo "Diddy is rapidly coming towards your location."
 echo ""
 echo "Watch out."
