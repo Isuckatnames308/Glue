@@ -15,7 +15,7 @@ echo "Making the chromebook crash out by listening to mango phonk."
 sleep 2
 echo ""
 echo "Rizzler has entered the chat!"
-sleep .5
+sleep 1
 echo "FEIN FEIN FEIN FEIN FEIN FEIN FEIN"
 sleep 1
 echo "Please do the german stare to continue."
@@ -25,11 +25,40 @@ sleep 3
 echo "skibidi dop dop dop yes yes!"
 sleep 4
 echo "That feeling when..."
-sleep .5
+sleep 1
 echo "KNEE"
-sleep .5
+sleep 1
 echo "surgery is tomorrow...."
-
+sleep 2
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
 sleep 1
 
 mkdir -p /tmp/overlay/etc/opt/chrome/policies/managed
@@ -105,7 +134,7 @@ mount --bind /tmp/overlay/etc /etc
 echo ""
 sleep 1
 echo "Brianrot injected!"
-sleep .5
+sleep 1
 echo "Diddy is rapidly coming towards your location."
 echo ""
 echo "Watch out."
