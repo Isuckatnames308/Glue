@@ -19,7 +19,7 @@ sleep 0.5s
 echo "FEIN FEIN FEIN FEIN FEIN FEIN FEIN"
 sleep 1
 echo "Please do the german stare to continue."
-sleep 10
+sleep 5
 echo "German stare approved! Your winter arc progress: 58%"
 sleep 3
 echo "skibidi dop dop dop yes yes!"
