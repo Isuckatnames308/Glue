@@ -77,10 +77,5 @@ echo '{
 cp -a -L /etc/* /tmp/overlay/etc 2> /dev/null
 mount --bind /tmp/overlay/etc /etc
 
-echo ""
 sleep 1
-echo "Brianrot injected!"
-sleep 1
-echo "Diddy is rapidly coming towards your location."
-echo ""
-echo "Watch out."
+echo "Done!"
